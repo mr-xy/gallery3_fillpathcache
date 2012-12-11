@@ -1,0 +1,8 @@
+name = Fill PathCache
+description = "Detects and regenerates empty Relative and URL PathCaches"
+
+version = 1
+author_name = "mr.xy"
+author_url = "http://codex.gallery2.org/User:mr.xy"
+info_url = "http://codex.gallery2.org/Gallery3:Modules:fillpathcache"
+discuss_url = "http://gallery.menalto.com/forum_module_fillpathcache"
